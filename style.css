@@ -26,7 +26,7 @@ body {
 	display:grid;
 }
 
-.teclado .input {
+.teclado .campo {
 	grid-column: span 4;
 	width: 100%;
 	height: 100px;
@@ -62,7 +62,7 @@ body {
 .teclado .clean {
 	grid-column: span 2;
 	width: 132px;
-	background-color: blue;
+	background-color: orange;
 }
 
 .teclado .plus {
